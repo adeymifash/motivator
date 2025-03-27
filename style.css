@@ -3,7 +3,7 @@ body{
 }
 .container{
 text-align: center;
-margin-top: 70px;
+margin-top: 40px;
 clear: both;
 }
 .img{
@@ -15,5 +15,11 @@ clear: both;
     font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    text-transform: uppercase;
 }
