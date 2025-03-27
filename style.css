@@ -13,7 +13,8 @@ clear: both;
 .word{
     color: white;
     font-size: 30px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
     text-align: center;
     margin-top: 10px;
 }
